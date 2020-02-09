@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329611723941",
+    "firebase_url": "https://nkomo-app.firebaseio.com",
+    "project_id": "nkomo-app",
+    "storage_bucket": "nkomo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329611723941:android:e12ac500081ddc9bbcb94c",
+        "android_client_info": {
+          "package_name": "co.bizziapps.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329611723941-a2hkkl42hopuh93s54uoe4h5d3vpbsfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZWlFYeIfwJ5gUhsi4JX42nAacQG31wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329611723941-a2hkkl42hopuh93s54uoe4h5d3vpbsfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
